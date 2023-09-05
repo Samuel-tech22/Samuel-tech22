@@ -1,7 +1,7 @@
   👋 Hi, I’m @Samuel-tech22
 - 👀 I’m interested in web developmen and data sciens.
 - 🌱 I’m currently learning software developmen.
-- 💞️ I’m looking to collaborate on web and mobile developmen.
+- 💞️ I’m looking to collaborate on web.
 - 📫 How to reach me scandia022@gmail.com
 
 <!---

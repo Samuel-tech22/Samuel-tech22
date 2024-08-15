@@ -4,7 +4,7 @@
 </div>
 <h2>
   Soy un desarrollador Full Stack MERN apasionado por crear soluciones web innovadoras. Con experiencia en tecnologías como JavaScript, React, Node.js, y MongoDB, he liderado proyectos desde el front-end hasta el back-end, incluyendo desarrollos avanzados en WordPress y soluciones de e-commerce.<br>Destaco por mi enfoque colaborativo y creativo, ofreciendo soluciones escalables. Mi habilidad en análisis de datos complementa mi capacidad para tomar decisiones informadas y optimizar procesos. <br><br>Conéctate conmigo para explorar cómo mis habilidades pueden impulsar tu proyecto.<br><br>
-  	<a href="mailto:hola@samuelcandia.com"><img img src="https://img.shields.io/badge/email-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width = 80px/></a>
+  	<a href="mailto:scandia022@gmail.com"><img img src="https://img.shields.io/badge/email-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width = 80px/></a>
   	<a href="https://wa.me/595975131240"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" width = 110px/></a>
   	<a href="https://www.linkedin.com/in/samuel-candia/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width = 100px/></a>
 </h2>  <br>  <br>
